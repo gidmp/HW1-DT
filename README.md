@@ -1,2 +1,2 @@
-# HW1-DT
-Homework 1 of UW coding bootcamp
+# About the homework
+Homework 1 is about learning code refactoring.
